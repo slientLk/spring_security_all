@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_security_family.iml" filepath="$PROJECT_DIR$/.idea/spring_security_family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security_jsp/springboot_security_jsp.iml" filepath="$PROJECT_DIR$/springboot_security_jsp/springboot_security_jsp.iml" />
+    </modules>
+  </component>
+</project>

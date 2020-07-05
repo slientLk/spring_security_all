@@ -1,0 +1,19 @@
+server:
+  port: 9001
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///security_authority
+    username: root
+    password: 123456
+mybatis:
+  type-aliases-package: cn.lk.domain
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level:
+    cn.lk: debug
+lk:
+  key:
+    pubKeyPath: H:\auth_key\rsa_key.pub
+    priKeyPath: H:\auth_key\rsa_key

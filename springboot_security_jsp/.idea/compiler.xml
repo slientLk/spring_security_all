@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="heima_source_product" />
+        <module name="heima_oauth_source" />
+        <module name="heima_oauth_server" />
+        <module name="springboot_common" />
+        <module name="heima_common" />
+        <module name="springboot_security_jsp" />
+        <module name="heima_auth_server" />
+        <module name="untitled" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="heima_auth_server" target="1.8" />
+      <module name="heima_common" target="1.8" />
+      <module name="heima_oauth_server" target="1.8" />
+      <module name="heima_oauth_source" target="1.8" />
+      <module name="heima_source_product" target="1.8" />
+      <module name="springboot_common" target="1.5" />
+      <module name="springboot_security_jsp" target="1.8" />
+      <module name="springboot_security_jwt_rsa_parent" target="1.8" />
+      <module name="springboot_security_oauth" target="1.8" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="heima_auth_server" options="-parameters" />
+      <module name="heima_common" options="-parameters" />
+      <module name="heima_oauth_server" options="-parameters" />
+      <module name="heima_oauth_source" options="-parameters" />
+      <module name="heima_source_product" options="-parameters" />
+      <module name="springboot_security_jsp" options="-parameters" />
+      <module name="springboot_security_jwt_rsa_parent" options="-parameters" />
+    </option>
+  </component>
+</project>

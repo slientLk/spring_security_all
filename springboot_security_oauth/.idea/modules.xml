@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heima_oauth_server/heima_oauth_server.iml" filepath="$PROJECT_DIR$/heima_oauth_server/heima_oauth_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima_oauth_source/heima_oauth_source.iml" filepath="$PROJECT_DIR$/heima_oauth_source/heima_oauth_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security_oauth.iml" filepath="$PROJECT_DIR$/springboot_security_oauth.iml" />
+    </modules>
+  </component>
+</project>

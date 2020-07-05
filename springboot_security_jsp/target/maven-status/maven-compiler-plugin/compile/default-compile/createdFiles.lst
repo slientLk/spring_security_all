@@ -1,0 +1,8 @@
+cn\lk\config\SecurityConfig.class
+cn\lk\domain\SysRole.class
+cn\lk\advice\ControllerExceptionHandler.class
+cn\lk\sevice\impl\UserServiceImpl.class
+cn\lk\sevice\UserService.class
+cn\lk\mapper\UserMapper.class
+cn\lk\domain\SysUser.class
+cn\lk\mapper\RoleMapper.class
